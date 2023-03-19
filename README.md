@@ -1,5 +1,5 @@
 # MCQ-on-Newtonian-Physics
-An IIUM class project
+A University course project
 
 The given code is a C++ program that implements a learning aid software for Newton's Laws of Motion. The program presents a menu of options to the user, allowing them to choose between reading notes or taking a multiple-choice quiz on the topic.
 
